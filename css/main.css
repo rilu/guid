@@ -1,0 +1,25 @@
+body {
+	background: #eee;
+}
+
+.masthead {
+	padding: 70px 0 80px;
+	margin-bottom: 0;
+	color: #fff;
+	background:#43413e;
+	background: -webkit-linear-gradient(90deg, #222 0%,#43413e 100%);
+	/*border-bottom: solid 4px #373633;*/
+	box-shadow: 0 2px 4px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+}
+
+.masthead h1 {
+	font-size: 40px;
+	line-height: 1;
+	letter-spacing: -2px;
+}
+
+.jumbotron {
+	position: relative;
+	text-align: center;
+	text-shadow: 0 2px 4px rgba(0,0,0,.8), 0 0 30px rgba(0,0,0,.075);
+}
